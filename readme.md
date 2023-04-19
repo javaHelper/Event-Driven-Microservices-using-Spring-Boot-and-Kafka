@@ -37,5 +37,8 @@ curl --location 'localhost:8070/api/v1/orders' \
 
 <img width="725" alt="Screenshot 2023-04-19 at 10 21 04 PM" src="https://user-images.githubusercontent.com/54174687/233145475-42dd7ceb-5808-401c-a27c-5f3f539c4128.png">
 
+<img width="1341" alt="Screenshot 2023-04-19 at 10 22 24 PM" src="https://user-images.githubusercontent.com/54174687/233145778-09b97679-61ef-4f4c-96e2-fec5d0470a66.png">
+
+
 
 
